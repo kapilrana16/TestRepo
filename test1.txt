@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E0E1-877C
+
+ Directory of C:\Users\kapil.rana\Desktop\MyGitProject
+
+11/23/2018  11:52 PM    <DIR>          .
+11/23/2018  11:52 PM    <DIR>          ..
+11/23/2018  11:52 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   5,295,702,016 bytes free
